@@ -6,3 +6,4 @@
 Here is the link to my Netlify domain where this project is hosted:<h1> https://retro-counter.netlify.app/ </h1>
 
 <p>To get the node_modules, you can simply go to the terminal and write <strong>npm install</strong> to get back all the node_modules.</p>
+ 
